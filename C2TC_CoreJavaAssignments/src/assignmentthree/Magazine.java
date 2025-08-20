@@ -1,4 +1,4 @@
-package assignment;
+package assignmentthree;
 
 public class Magazine extends Item {
     private int issueNumber;
